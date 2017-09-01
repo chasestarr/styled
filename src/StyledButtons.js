@@ -92,6 +92,7 @@ class Buttons extends React.Component {
   render() {
     return (
       <div>
+        <p>Styled</p>
         <Button>Default Button</Button>
         <p />
         <Button type="primary">Primary Button</Button>
